@@ -123,7 +123,7 @@ function read(text){
     }
 
     if(text.includes('robot dog')|| text.includes('robot dogs') ){
-        speech.text= 'The best robot dog is sony aibo. Yes it is a little bit expensive but it is very cool. If you want something cool but in your price rate, you can buy the robot jennie dog. It costs 449 dollars. Jennie robot dog does everthing besides walking. Its also a lebrador puppy style dog. Its cool right!' 
+        speech.text= 'The best robot dog is sony aibo. Yes it is a little bit expensive but it is very cool. If you want something cool but in your price rate, you can buy the robot jennie dog. It costs 449 dollars.' 
     }
     
 
